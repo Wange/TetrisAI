@@ -3,7 +3,7 @@ package ai.genetic
 object Parameters {
 	// Population parameters
 	val generationSize = 1000
-	val nrOfGenes = 25
+	val nrOfGenes = 1000 //!!!!
 	val numberOfGenerations = 200
 	
 	// Probabilities
